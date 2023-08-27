@@ -1,0 +1,2 @@
+1. This repository is a summary of the book "Practical Time Series Analysis: Prediction with Statistics and Machine Learning".
+2. Each jupyter notebooks in this repository contains breif summary of topics and its code for each chapter.
